@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+div>h1{
+    text-align: center;
+    margin: 5%;
+}
+.container{
+    border-radius: 10px;   
+    width:600px;
+    border:1px solid black;
+    margin-top:5%;
+    padding:10px;
+    
+}
+div>form{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
